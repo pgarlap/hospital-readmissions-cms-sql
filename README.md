@@ -1,4 +1,4 @@
-# Hospital Readmissions Analysis — CMS FY2026
+# Hospital Readmissions Analysis - CMS FY2026
 
 SQL analysis of 18,331 hospital records from the CMS Hospital Readmissions 
 Reduction Program (HRRP) FY2026 dataset.
@@ -18,10 +18,10 @@ excess readmissions across the U.S.
 
 ## Key Findings
 
-**Texas and California** lead in hospital count — 284 and 277 hospitals 
+**Texas and California** lead in hospital count - 284 and 277 hospitals 
 respectively, reflecting their population size.
 
-**Massachusetts** had the highest excess readmission ratio (1.0344) — 
+**Massachusetts** had the highest excess readmission ratio (1.0344) - 
 meaning its hospitals are readmitting more patients than CMS predicts 
 they should. New Jersey and Florida followed closely.
 
@@ -30,7 +30,7 @@ across all 6 tracked conditions. From my pharmacy background, this makes
 clinical sense — post-surgical patients are complex to manage at discharge, 
 especially older adults on multiple medications.
 
-**NYU Langone** handled the most discharges (3,672) for pneumonia alone — 
+**NYU Langone** handled the most discharges (3,672) for pneumonia alone -
 showing just how large high-volume urban hospitals are compared to the 
 national average.
 
