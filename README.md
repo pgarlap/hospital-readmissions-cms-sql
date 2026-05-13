@@ -27,7 +27,7 @@ they should. New Jersey and Florida followed closely.
 
 **Hip and Knee Replacement** had the highest excess readmission ratio 
 across all 6 tracked conditions. From my pharmacy background, this makes 
-clinical sense — post-surgical patients are complex to manage at discharge, 
+clinical sense - post-surgical patients are complex to manage at discharge, 
 especially older adults on multiple medications.
 
 **NYU Langone** handled the most discharges (3,672) for pneumonia alone -
@@ -63,7 +63,7 @@ national average.
 
 ## About Me
 
-PharmD + M.S. Health Informatics — I analyze healthcare data with both 
+PharmD + M.S. Health Informatics - I analyze healthcare data with both 
 clinical and technical context.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/garlapati-poojitha)
